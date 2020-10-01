@@ -44,3 +44,9 @@ body {
   text-align: center;
   padding: 0.5em;
 }
+#post #logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:35%;
+}
